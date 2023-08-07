@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(61, 2, 2, 0.911);
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+    position: absolute;
+    background-color: rgb(253, 253, 253);
+    top: 0px;
+    height: 40px;
+}
+
+img{
+    height: 40px;
+    position: relative;
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    justify-content: space-between;
+    position: relative;
+    margin: auto;
+}
+
+li{
+    margin: 14px;
+}
+
+button{
+    color: black;
+    position: relative;
+    border-radius: 7px;
+}
